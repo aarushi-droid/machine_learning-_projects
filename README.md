@@ -1,5 +1,5 @@
 
-#🧠 60-Day Machine Learning Challenge
+# 60-Day Machine Learning Challenge
 
 From Beginner to Advanced
 
